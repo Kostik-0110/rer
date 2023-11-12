@@ -1,0 +1,37 @@
+a{
+    color: aqua;
+    text-decoration: none; 
+    /* transition: all 0.6s;*/
+} 
+
+a:hover {
+    color: red;
+    /* font-size: 1.2rem; */
+}
+
+/* a:visited{
+    color:red; 
+} */
+
+a:active{
+    color: blue;
+}
+
+/* .css:hover{
+
+} */
+
+.btn{
+    background: brown;
+    padding: 15px 20px;
+    color: blueviolet;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: inherit;
+}
+
+.btn:hover{
+    opacity: .8;
+    color: red;
+}
